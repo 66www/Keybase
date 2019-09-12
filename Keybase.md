@@ -1,11 +1,14 @@
-Keybase proof
+### Keybase proof
+
 I hereby claim:
 
-I am 66www on github.
-I am richard66 (https://keybase.io/richard66) on keybase.
-I have a public key ASAABUvaoZtkYJd5wfMIBxYastN-QTlKz3Td5w4ep7o_PAo
+  * I am 66www on github.
+  * I am richard66 (https://keybase.io/richard66) on keybase.
+  * I have a public key ASAABUvaoZtkYJd5wfMIBxYastN-QTlKz3Td5w4ep7o_PAo
+
 To claim this, I am signing this object:
 
+```json
 {
   "body": {
     "key": {
@@ -39,17 +42,26 @@ To claim this, I am signing this object:
   "seqno": 8,
   "tag": "signature"
 }
-with the key ASAABUvaoZtkYJd5wfMIBxYastN-QTlKz3Td5w4ep7o_PAo, yielding the signature:
+```
 
+with the key [ASAABUvaoZtkYJd5wfMIBxYastN-QTlKz3Td5w4ep7o_PAo](https://keybase.io/richard66), yielding the signature:
+
+```
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgAAVL2qGbZGCXecHzCAcWGrLTfkE5Ss903ecOHqe6PzwKp3BheWxvYWTESpcCCMQgVgavvxqH9SOF4/ZZ1jHtF9aikt5YmoPSN+R9vw5K6inEIPQroW1ir3idS/ORJYZfzImx28/ig0xT73Lgwm27/zB0AgHCo3NpZ8RAHawXVK46rw3so8u2MqdAxk4rlUC71tb7Kg7U0GVvwB3MauzEfHiZxxP7H4M8NaWt2Xa5RzFp528vNNWUp2mbA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIE2GQoS/46YHFWAdYDays93lxmk3a9Nff0PzNfPpjrgXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
 
 And finally, I am proving ownership of the github account by posting this as a gist.
 
-My publicly-auditable identity:
+### My publicly-auditable identity:
+
 https://keybase.io/richard66
 
-From the command line:
-Consider the keybase command line program.
+### From the command line:
 
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
 # look me up
 keybase id richard66
+```
